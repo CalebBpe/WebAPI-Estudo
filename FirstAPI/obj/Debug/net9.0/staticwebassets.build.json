@@ -1,0 +1,702 @@
+{
+  "Version": 1,
+  "Hash": "X1SniTiisc+Aqtl28BQh5COwf2gQRqRbRaavpoFSphY=",
+  "Source": "FirstAPI",
+  "BasePath": "_content/FirstAPI",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "FirstAPI\\wwwroot",
+      "Source": "FirstAPI",
+      "ContentRoot": "C:\\Users\\caleb\\OneDrive\\Documentos\\Estudos\\API_C#\\FirstAPI\\wwwroot\\",
+      "BasePath": "_content/FirstAPI",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": [
+    {
+      "Identity": "C:\\Users\\caleb\\OneDrive\\Documentos\\Estudos\\API_C#\\FirstAPI\\obj\\Debug\\net9.0\\compressed\\3f6z0odd3h-1gx6i32uxp.gz",
+      "SourceId": "FirstAPI",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\caleb\\OneDrive\\Documentos\\Estudos\\API_C#\\FirstAPI\\obj\\Debug\\net9.0\\compressed\\",
+      "BasePath": "_content/FirstAPI",
+      "RelativePath": "style#[.{fingerprint=1gx6i32uxp}]?.css.gz",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Alternative",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "C:\\Users\\caleb\\OneDrive\\Documentos\\Estudos\\API_C#\\FirstAPI\\wwwroot\\style.css",
+      "AssetTraitName": "Content-Encoding",
+      "AssetTraitValue": "gzip",
+      "Fingerprint": "374du9n53c",
+      "Integrity": "f6hOjviX+9AoF49Qm4RH+lqTvga90cVHBVmB96ijNew=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "C:\\Users\\caleb\\OneDrive\\Documentos\\Estudos\\API_C#\\FirstAPI\\wwwroot\\style.css"
+    },
+    {
+      "Identity": "C:\\Users\\caleb\\OneDrive\\Documentos\\Estudos\\API_C#\\FirstAPI\\obj\\Debug\\net9.0\\compressed\\s6ybbeyc61-5qxmgvzvks.gz",
+      "SourceId": "FirstAPI",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\caleb\\OneDrive\\Documentos\\Estudos\\API_C#\\FirstAPI\\obj\\Debug\\net9.0\\compressed\\",
+      "BasePath": "_content/FirstAPI",
+      "RelativePath": "index#[.{fingerprint=5qxmgvzvks}]?.html.gz",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Alternative",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "C:\\Users\\caleb\\OneDrive\\Documentos\\Estudos\\API_C#\\FirstAPI\\wwwroot\\index.html",
+      "AssetTraitName": "Content-Encoding",
+      "AssetTraitValue": "gzip",
+      "Fingerprint": "mn69qlw0n8",
+      "Integrity": "DqiW1Gr3FzKqgKM8OSfD7TZnlkqI7wWyeP8HtJf1KIE=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "C:\\Users\\caleb\\OneDrive\\Documentos\\Estudos\\API_C#\\FirstAPI\\wwwroot\\index.html"
+    },
+    {
+      "Identity": "C:\\Users\\caleb\\OneDrive\\Documentos\\Estudos\\API_C#\\FirstAPI\\wwwroot\\index.html",
+      "SourceId": "FirstAPI",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\caleb\\OneDrive\\Documentos\\Estudos\\API_C#\\FirstAPI\\wwwroot\\",
+      "BasePath": "_content/FirstAPI",
+      "RelativePath": "index#[.{fingerprint}]?.html",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "5qxmgvzvks",
+      "Integrity": "w89e34ACmKCSFGeUbrywKBi2usTumbRd0YCoIVT6/8o=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\index.html"
+    },
+    {
+      "Identity": "C:\\Users\\caleb\\OneDrive\\Documentos\\Estudos\\API_C#\\FirstAPI\\wwwroot\\style.css",
+      "SourceId": "FirstAPI",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\caleb\\OneDrive\\Documentos\\Estudos\\API_C#\\FirstAPI\\wwwroot\\",
+      "BasePath": "_content/FirstAPI",
+      "RelativePath": "style#[.{fingerprint}]?.css",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "1gx6i32uxp",
+      "Integrity": "0cwQoOJ6/XdF5kduNSHte1LNpsCHC4cl2MxBSj5AKnc=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\style.css"
+    }
+  ],
+  "Endpoints": [
+    {
+      "Route": "index.5qxmgvzvks.html",
+      "AssetFile": "C:\\Users\\caleb\\OneDrive\\Documentos\\Estudos\\API_C#\\FirstAPI\\obj\\Debug\\net9.0\\compressed\\s6ybbeyc61-5qxmgvzvks.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "0.002500000000"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "399"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"DqiW1Gr3FzKqgKM8OSfD7TZnlkqI7wWyeP8HtJf1KIE=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 18 Apr 2025 13:18:02 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/html"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"w89e34ACmKCSFGeUbrywKBi2usTumbRd0YCoIVT6/8o=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "5qxmgvzvks"
+        },
+        {
+          "Name": "label",
+          "Value": "index.html"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-w89e34ACmKCSFGeUbrywKBi2usTumbRd0YCoIVT6/8o="
+        }
+      ]
+    },
+    {
+      "Route": "index.5qxmgvzvks.html",
+      "AssetFile": "C:\\Users\\caleb\\OneDrive\\Documentos\\Estudos\\API_C#\\FirstAPI\\wwwroot\\index.html",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "658"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/html"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"w89e34ACmKCSFGeUbrywKBi2usTumbRd0YCoIVT6/8o=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 18 Apr 2025 13:18:02 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "5qxmgvzvks"
+        },
+        {
+          "Name": "label",
+          "Value": "index.html"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-w89e34ACmKCSFGeUbrywKBi2usTumbRd0YCoIVT6/8o="
+        }
+      ]
+    },
+    {
+      "Route": "index.5qxmgvzvks.html.gz",
+      "AssetFile": "C:\\Users\\caleb\\OneDrive\\Documentos\\Estudos\\API_C#\\FirstAPI\\obj\\Debug\\net9.0\\compressed\\s6ybbeyc61-5qxmgvzvks.gz",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "399"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/html"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"DqiW1Gr3FzKqgKM8OSfD7TZnlkqI7wWyeP8HtJf1KIE=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 18 Apr 2025 13:18:02 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "5qxmgvzvks"
+        },
+        {
+          "Name": "label",
+          "Value": "index.html.gz"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-DqiW1Gr3FzKqgKM8OSfD7TZnlkqI7wWyeP8HtJf1KIE="
+        }
+      ]
+    },
+    {
+      "Route": "index.html",
+      "AssetFile": "C:\\Users\\caleb\\OneDrive\\Documentos\\Estudos\\API_C#\\FirstAPI\\obj\\Debug\\net9.0\\compressed\\s6ybbeyc61-5qxmgvzvks.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "0.002500000000"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "399"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"DqiW1Gr3FzKqgKM8OSfD7TZnlkqI7wWyeP8HtJf1KIE=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 18 Apr 2025 13:18:02 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/html"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"w89e34ACmKCSFGeUbrywKBi2usTumbRd0YCoIVT6/8o=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-w89e34ACmKCSFGeUbrywKBi2usTumbRd0YCoIVT6/8o="
+        }
+      ]
+    },
+    {
+      "Route": "index.html",
+      "AssetFile": "C:\\Users\\caleb\\OneDrive\\Documentos\\Estudos\\API_C#\\FirstAPI\\wwwroot\\index.html",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "658"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/html"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"w89e34ACmKCSFGeUbrywKBi2usTumbRd0YCoIVT6/8o=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 18 Apr 2025 13:18:02 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-w89e34ACmKCSFGeUbrywKBi2usTumbRd0YCoIVT6/8o="
+        }
+      ]
+    },
+    {
+      "Route": "index.html.gz",
+      "AssetFile": "C:\\Users\\caleb\\OneDrive\\Documentos\\Estudos\\API_C#\\FirstAPI\\obj\\Debug\\net9.0\\compressed\\s6ybbeyc61-5qxmgvzvks.gz",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "399"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/html"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"DqiW1Gr3FzKqgKM8OSfD7TZnlkqI7wWyeP8HtJf1KIE=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 18 Apr 2025 13:18:02 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-DqiW1Gr3FzKqgKM8OSfD7TZnlkqI7wWyeP8HtJf1KIE="
+        }
+      ]
+    },
+    {
+      "Route": "style.1gx6i32uxp.css",
+      "AssetFile": "C:\\Users\\caleb\\OneDrive\\Documentos\\Estudos\\API_C#\\FirstAPI\\obj\\Debug\\net9.0\\compressed\\3f6z0odd3h-1gx6i32uxp.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "0.013157894737"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "75"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"f6hOjviX+9AoF49Qm4RH+lqTvga90cVHBVmB96ijNew=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 18 Apr 2025 13:17:28 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"0cwQoOJ6/XdF5kduNSHte1LNpsCHC4cl2MxBSj5AKnc=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "1gx6i32uxp"
+        },
+        {
+          "Name": "label",
+          "Value": "style.css"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-0cwQoOJ6/XdF5kduNSHte1LNpsCHC4cl2MxBSj5AKnc="
+        }
+      ]
+    },
+    {
+      "Route": "style.1gx6i32uxp.css",
+      "AssetFile": "C:\\Users\\caleb\\OneDrive\\Documentos\\Estudos\\API_C#\\FirstAPI\\wwwroot\\style.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "55"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"0cwQoOJ6/XdF5kduNSHte1LNpsCHC4cl2MxBSj5AKnc=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 18 Apr 2025 13:17:28 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "1gx6i32uxp"
+        },
+        {
+          "Name": "label",
+          "Value": "style.css"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-0cwQoOJ6/XdF5kduNSHte1LNpsCHC4cl2MxBSj5AKnc="
+        }
+      ]
+    },
+    {
+      "Route": "style.1gx6i32uxp.css.gz",
+      "AssetFile": "C:\\Users\\caleb\\OneDrive\\Documentos\\Estudos\\API_C#\\FirstAPI\\obj\\Debug\\net9.0\\compressed\\3f6z0odd3h-1gx6i32uxp.gz",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "75"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"f6hOjviX+9AoF49Qm4RH+lqTvga90cVHBVmB96ijNew=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 18 Apr 2025 13:17:28 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "1gx6i32uxp"
+        },
+        {
+          "Name": "label",
+          "Value": "style.css.gz"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-f6hOjviX+9AoF49Qm4RH+lqTvga90cVHBVmB96ijNew="
+        }
+      ]
+    },
+    {
+      "Route": "style.css",
+      "AssetFile": "C:\\Users\\caleb\\OneDrive\\Documentos\\Estudos\\API_C#\\FirstAPI\\obj\\Debug\\net9.0\\compressed\\3f6z0odd3h-1gx6i32uxp.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "0.013157894737"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "75"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"f6hOjviX+9AoF49Qm4RH+lqTvga90cVHBVmB96ijNew=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 18 Apr 2025 13:17:28 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"0cwQoOJ6/XdF5kduNSHte1LNpsCHC4cl2MxBSj5AKnc=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-0cwQoOJ6/XdF5kduNSHte1LNpsCHC4cl2MxBSj5AKnc="
+        }
+      ]
+    },
+    {
+      "Route": "style.css",
+      "AssetFile": "C:\\Users\\caleb\\OneDrive\\Documentos\\Estudos\\API_C#\\FirstAPI\\wwwroot\\style.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "55"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"0cwQoOJ6/XdF5kduNSHte1LNpsCHC4cl2MxBSj5AKnc=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 18 Apr 2025 13:17:28 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-0cwQoOJ6/XdF5kduNSHte1LNpsCHC4cl2MxBSj5AKnc="
+        }
+      ]
+    },
+    {
+      "Route": "style.css.gz",
+      "AssetFile": "C:\\Users\\caleb\\OneDrive\\Documentos\\Estudos\\API_C#\\FirstAPI\\obj\\Debug\\net9.0\\compressed\\3f6z0odd3h-1gx6i32uxp.gz",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "75"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"f6hOjviX+9AoF49Qm4RH+lqTvga90cVHBVmB96ijNew=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 18 Apr 2025 13:17:28 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-f6hOjviX+9AoF49Qm4RH+lqTvga90cVHBVmB96ijNew="
+        }
+      ]
+    }
+  ]
+}
